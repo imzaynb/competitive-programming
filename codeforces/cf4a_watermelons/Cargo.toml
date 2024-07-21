@@ -1,0 +1,6 @@
+[package]
+name = "cf4a_watermelons"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
