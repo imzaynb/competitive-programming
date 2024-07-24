@@ -19,3 +19,8 @@ impl Scanner {
         }
     }
 }
+
+fn main() {
+    let mut scan = Scanner::default();
+    let out = &mut BufWriter::new(stdout());
+}
