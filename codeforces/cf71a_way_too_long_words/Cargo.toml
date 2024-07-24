@@ -1,0 +1,6 @@
+[package]
+name = "cf71a_way_too_long_words"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
